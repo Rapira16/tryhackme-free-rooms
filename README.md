@@ -59,7 +59,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 ## Intro Rooms
 
 - [x] [TryHackMe | Microservices Architectures](https://tryhackme.com/room/microservicearchitectures)
-- [ ] [TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
+- [X] [TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
 - [ ] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 - [ ] [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
 - [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
