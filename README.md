@@ -69,7 +69,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [x] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
 - [x] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
 - [x] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
-- [ ] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
+- [x] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
 - [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 - [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
